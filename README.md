@@ -1,2 +1,2 @@
 # Gestione Lista Clienti
-Gestione lista clienti con classe Vector
+Gestione lista clienti con classe Vector, con output su file.
